@@ -5,11 +5,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+</p><br/>
+
 ## About CRUD project
-This is a laravel made crud project. Where we can creat a post,update a post ,view the post and delete it.
-**Video link Below for overview**
-(https://drive.google.com/file/d/1V8QD34it6GAdG-7rRzRX47GhSQyOqc3v/view?usp=share_link)
+This is a laravel made crud project. Where we can creat a post,update a post ,view the post and delete it.<br/>
+**Video link Below for overview**<br/>
+(https://drive.google.com/file/d/1V8QD34it6GAdG-7rRzRX47GhSQyOqc3v/view?usp=share_link)<br/>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
